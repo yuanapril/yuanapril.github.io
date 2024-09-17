@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+@import url('https://fonts.googleapis.com/css?family=Prata');
+/* Text Styling */
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    /* font-size: 18px; */
+    /* text-align: justify; */
+    color: #666;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+span#name {
+    font-family:'Prata',sans-serif;
+    /* font-weight: bold; */
+    font-size:25px;
+    /* letter-spacing: ; */
+    /* text-transform: uppercase; */
+    
+    
+}
+
+span.heading {    
+    position: relative;
+}
+
+span.heading::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    background: #DFC3B7; /*highlight*/
+    opacity:50%;
+    left: -0.4em;
+    bottom: -0.1em;
+    height: 0.8em;
+    z-index: -1;
+}
+
+span.location {
+    font-style: italic;
+}
+
+a {
+    text-decoration: none !important;
+    color: #999;
+}
+
+a:hover {
+    color:inherit;
+    background-color: var(--hov);
+}
+
+/* Layout */
+.content {
+    margin-top: 150px;
+    margin-bottom: 150px;
+    
+}
+
+.section:not(:last-child) {
+    padding-top:10px;
+    /* margin-top: 30px; */
+    margin-bottom:20px;
+    border-bottom:1px solid #eee;
+    
+}
+
+.bio {
+    text-align: right;
+    font-size:15px;
+    /* border-top:1px dotted; */
+    border-right:1px solid #eee;
+}
+
+#logo {
+    position: absolute;
+    right: 0px;
+    width: 70%;
+    bottom: 20px;
+}
+
+.rel {
+    position: relative;
+
+    /* line-height: 40pt; */
+}
+
+#intro {
+    position: absolute;
+    bottom: 40px;
+
+    /* border-style: dotted; */
+}

@@ -1,0 +1,24 @@
+title: YUAN Mei
+url: "https://yuanm97.github.io"
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: no
+footer_url: ""
+footer_text: "Website template by Ankit Sultana."
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Research"
+   link: "research"
+ - name: "Teaching"
+   link: "teaching"
