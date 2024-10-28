@@ -8,14 +8,17 @@ layout: default
 
 Hi! I'm YUAN Mei (<font face="KAI">袁 玫</font>)! I received my Master's degree in Computational Lingustic Engineering from <a href="https://english.pku.edu.cn">Peking University</a>, where I was fortunately advised by Prof. LI Boting and worked closedly with <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. SU Qi</a>. Before that, I received my Bachelor's degree in Information System and interned at Meituan and Apple Inc. leading the LLMs for sales project.
 
+<br />
+
 My primary research interest lies in the intersection of Natural Language Processing and Computer Vision. Specifically:
 
-- **Guiding Growth and Grasp: Adaptive Pedagogy with Multimodal Tutoring Avatars.** 
+- **Guiding Growth and Grasp**: Adaptive Pedagogy with Multimodal Tutoring Avatars.
 
-- **Bridging Pixels and Prose: Creative Art in Story Imagery and Narration.** 
+- **Bridging Pixels and Prose**: Creative Art in Story Imagery and Narration.
   
-- **MLLMs for Comprehension and Creation in Synergy.** 
+- **Synergizing Comprehension and Creation** 
 
+<br />
 
 My email is yuanapr97 [at] gmail [dot] com.  
 
