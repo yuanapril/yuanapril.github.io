@@ -16,7 +16,7 @@ My primary research interest lies in the intersection of Natural Language Proces
 
 - **Bridging Pixels and Prose**: Creative Art in Story Imagery and Narration.
   
-- **Synergizing Comprehension and Creation** 
+- **Synergizing Comprehension and Creation in MLLMs** 
 
 <br />
 
