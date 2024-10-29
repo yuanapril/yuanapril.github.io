@@ -12,11 +12,11 @@ Hi! I'm YUAN Mei (<font face="KAI">袁 玫</font>)! I received my Master's degre
 
 My primary research interest lies in the intersection of Natural Language Processing and Computer Vision. Specifically:
 
-- **Guiding Growth and Grasp**: Adaptive Pedagogy with Multimodal Tutoring Avatars.
+- **Guiding Growth and Grasp**: adaptive pedagogy with multimodal coaching avatars.
 
-- **Bridging Pixels and Prose**: Creative Art in Story Imagery and Narration.
+- **Bridging Pixels and Prose**: creative art in story animation and narration.
   
-- **Synergizing Comprehension and Creation in MLLMs** 
+- **Synergizing Comprehension and Creation**: versatile MLLMs to perceive, process, and produce both discrete and continuous elements. 
 
 <br />
 
