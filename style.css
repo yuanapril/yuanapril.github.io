@@ -95,3 +95,7 @@ a:hover {
 
     /* border-style: dotted; */
 }
+
+#clustrmaps-widget {
+    display: none 
+}
