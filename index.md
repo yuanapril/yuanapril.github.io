@@ -6,17 +6,19 @@ layout: default
 
 <img class="profile-picture" src="imgs/profile.jpeg">
 
-Hi! I'm YUAN Mei (<span style="font-family: 'Kaiti';">袁 玫</span>)! I received my Master's degree in Computational Lingustic Engineering from <a href="https://english.pku.edu.cn">Peking University</a>, where I was fortunately supervised by Prof. LI Boting and worked closely with <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. SU Qi</a>. Before that, I received my Bachelor's degree in Information System, interned at Meituan and Apple Inc. leading the LLMs for sales project, and co-founded <a href="http://textpanda.cn">TextPanda</a> providing intelligent Chinese writing assistance.
+Hi! I'm YUAN Mei (<span style="font-family: 'Kaiti';">袁 玫</span>)! I received my Master's degree in Computational Lingustic Engineering from <a href="https://english.pku.edu.cn">Peking University</a>, where I was fortunately supervised by Prof. LI Boting and worked closely with <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. SU Qi</a>. Before that, I received my Bachelor's degree in Information System.
+
+During my postgraduate studies, I interned at Meituan and Apple Inc., where I led several innovative projects focused on LLMs for the sales sector(i.e Langchain-Based QnA Assistant for Sales Sector, CSVAgent-Driven Structured Data Analysis, Data Academy with LLM-Simulated Technical Training). Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent Chinese writing assistant powered by our cutting-edge Chinese Spelling Check model ’**Zous-1B**’.
 
 <br />
 
-My primary research interest lies in the intersection of Natural Language Processing and Computer Vision. Specifically:
+My primary research interest lies in (Multimodal) Large Language Models for **human-centered** scenarios. Specifically:
 
-- **Guiding Growth and Grasp**: adaptive pedagogy with multimodal coaching avatars.
+- **Building adaptive pedagogical systems with multimodal coaching avatars** to enable (M)LLMs simulating educators and learners to reshape the pedagogy and acquisition process.
 
-- **Bridging Pixels and Prose**: creative art in story animation and narration.
+- **Generate interleaved-modal and controllable story-like narratives and illustrations** in a unified manner, allowing for interaction with users on a self-built dynamic storyboard.
   
-- **Synergizing Comprehension and Creation**: versatile MLLMs to perceive, process, and produce both discrete and continuous elements. 
+- **Explore unified MLLMs for Comprehension and Creation** which learn both language and vision posteriors simultaneously and generate free-form interleaved content.
 
 <br />
 
@@ -35,7 +37,7 @@ My email is yuanapr97 [at] gmail [dot] com.
 
 3. Wenkai Zheng, Mei Yuan. [A Person Re-identification Approach Focusing on the Occlusion Problem and Ranking Optimization.](https://dl.acm.org/doi/abs/10.1145/3552437.3555692). Published at ACMMM 2022 MMSports.
 
-4. [PRformer: Prefix Reprogramming Transformers for Long-Term Series Forecasting](https://drive.google.com/file/d/1TRluzIIIRiTBxrD3ftzOAN_xotqOAwpz/view?usp=sharing). Submitted to ICDE 2025.
+4. Mei Yuan, Hongcheng Guo. [PRformer: Prefix Reprogramming Transformers for Long-Term Series Forecasting](https://drive.google.com/file/d/1TRluzIIIRiTBxrD3ftzOAN_xotqOAwpz/view?usp=sharing). Submitted to ICDE 2025.
 
 
 ### Also see [Google Scholar](https://scholar.google.com/citations?user=q4kZ8WMAAAAJ&hl=en) :)  
@@ -47,8 +49,9 @@ My email is yuanapr97 [at] gmail [dot] com.
 
 ## Teaching
 At PKU:
-1. TA for *Advanced English for Graduate Students of Information Technology'2024* taught by Prof. LI Boting.
-2. TA for *International Joint Summer Workshop on Digital Humanities’2022* co-hosted by Peking University and Harvard University.
+1. TA for *International Joint Summer Workshop on Digital Humanities’2022* co-hosted by Peking University and Harvard University.
+2. TA for *Advanced English for Graduate Students of Information Technology'2024* taught by Prof. LI Boting.
+
 
 <br />
 
