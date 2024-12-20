@@ -101,3 +101,17 @@ a:hover {
 #clustrmaps-widget {
     display: none;
 }
+
+@font-face {
+  font-family: 'KaiTiWeb';
+  src: url('/assets/fonts/kaiti.woff2') format('woff2'),
+       url('/assets/fonts/kaiti.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+span.kaiti {
+  font-family: 'KaiTiWeb', serif;
+}
+
