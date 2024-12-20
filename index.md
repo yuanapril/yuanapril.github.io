@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="imgs/profile.jpeg">
 <!-- <span style="font-family:'KaiTi', 'STKaiti', 'Kaiti SC', serif;">袁 玫</span> -->
-Hi! I'm YUAN Mei (<span class="kaiti">袁 玫</span>)! I received my Master's degree in Computational Lingustic Engineering from <a href="https://english.pku.edu.cn">Peking University</a>, where I was fortunately supervised by Prof. LI Boting and worked closely with <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. SU Qi</a>. Before that, I received my Bachelor's degree in Information System.
+Hi! I'm YUAN Mei (<font face="KAI">袁 玫</font>)! I received my Master's degree in Computational Lingustic Engineering from <a href="https://english.pku.edu.cn">Peking University</a>, where I was fortunately supervised by Prof. LI Boting and worked closely with <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. SU Qi</a>. Before that, I received my Bachelor's degree in Information System.
 
 During my postgraduate studies, I interned at Meituan and Apple Inc., where I led several innovative projects focused on LLMs for the sales sector(i.e LLM-powered customer service, data analysis, skill learning). Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent Chinese writing assistant powered by our cutting-edge Chinese Spelling Check model ’**Zous-1B**’.
 
