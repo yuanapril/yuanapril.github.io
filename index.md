@@ -15,14 +15,14 @@ During my postgraduate studies, I interned at Meituan and Apple Inc., where I le
 
 My primary research interest lies in (Multimodal) Large Language Models for **human-centered** scenarios. Specifically:
 
-- <img src="imgs/icon1.jpeg" alt="icon" width="20" height="20" style="vertical-align:middle;"> **Intelligent and interactive training and practice**.
+- <img src="imgs/icon1.jpeg" alt="icon" width="5" height="5" style="vertical-align:middle;"> **Intelligent and interactive training and practice**.
 <!--- **Building adaptive pedagogical systems with multimodal coaching avatars** to enable (M)LLMs simulating educators and learners to reshape the pedagogy and acquisition process. -->
   Build adaptive tutoring systems with specialized support for human-in-the-loop interactive paradigms to assist education and human learning.
 
-- <img src="imgs/icon2.jpeg" alt="icon" width="20" height="20" style="vertical-align:middle;"> **Creative and controllable storytelling**.
+- <img src="imgs/icon2.jpeg" alt="icon" width="5" height="5" style="vertical-align:middle;"> **Creative and controllable storytelling**.
   Generate visual-linguistic intertwined and controllable narratives and illustrations in a unified manner, allowing for interaction with users on a self-built dynamic storyboard.
 
-- <img src="imgs/multisense.png" alt="icon" width="20" height="20" style="vertical-align:middle;"> **Unified MLLMs for Comprehension and Creation**.
+- <img src="imgs/multisense.png" alt="icon" width="5" height="5" style="vertical-align:middle;"> **Unified MLLMs for Comprehension and Creation**.
   Learn both language and vision posteriors simultaneously and generate free-form interleaved content.
 
 <br />
