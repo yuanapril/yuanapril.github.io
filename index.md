@@ -15,7 +15,7 @@ During my postgraduate studies, I interned at Meituan and Apple Inc., where I le
 
 My primary research interest lies in (Multimodal) Large Language Models for **human-centered** scenarios. Specifically:
 
-<img class="profile-picture" src="imgs/profile.jpeg">
+
 
 - **AI-assisted training and practice**
 <!--- **Building adaptive pedagogical systems with multimodal coaching avatars** to enable (M)LLMs simulating educators and learners to reshape the pedagogy and acquisition process. -->
