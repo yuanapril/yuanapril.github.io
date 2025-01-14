@@ -1,6 +1,6 @@
 ## Publications
 
-1. Mei Yuan, Boting Li. [Guiding Grasp and Growth: Multi-Modal Detection and Feedback on Accented Mispronunciation](). Submitted to CHI 2025.
+1. Mei Yuan, Boting Li. [Guiding Grasp and Growth: Multi-Modal Detection and Feedback on Accented Mispronunciation](https://drive.google.com/file/d/1Cld1n7yeURCJH_tsa8Z_pG_sF3j9kN73/view?usp=drive_link). Submitted to CHI 2025.
 
 2. Shengguang Wu, Mei Yuan, Qi Su. [DIFFUVST: Narrating Fictional Scenes with Global-History-Guided Denoising Models.](https://arxiv.org/pdf/2312.07066v1). Published at Findings of EMNLP 2023.
 
