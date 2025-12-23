@@ -8,11 +8,12 @@ layout: default
 <!-- <span style="font-family:'KaiTi', 'STKaiti', 'Kaiti SC', serif;">袁 玫</span> -->
 <!-- Hi! I'm YUAN Mei (<font face="楷体">袁 玫</font>)!  -->
 Hi! I'm YUAN Mei (<span style="font-family:'KaiTi', 'STKaiti', 'Kaiti SC', serif;">袁 玫</span>)! 
-I am currently a visiting student at <a href="https://www.cmu.edu">Carnegie Mellon University</a>, working on agentic multimodal systems and embodied AI for automated science. 
+I am currently a visiting student at <a href="https://www.cmu.edu">Carnegie Mellon University</a>, under <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. XU Min</a>'s guidance, working on agentic multimodal systems and embodied AI for automated science. 
 
-I received my Master's degree in Computational Lingustic Engineering from <a href="https://english.pku.edu.cn">Peking University</a>, where I was fortunately supervised by Prof. LI Boting and worked closely with <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. SU Qi</a>. Before that, I received my Bachelor's degree in Information System.
+I received my Master's degree in Computational Linguistic Engineering from <a href="https://english.pku.edu.cn">Peking University</a>, where I was fortunately supervised by Prof. LI Boting and worked closely with <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. SU Qi</a>. Before that, I received my Bachelor's degree in Information System.
 
-During my postgraduate studies, I interned at Meituan and Apple Inc., where I led several pilot projects focusing on LLMs for the sales sector (i.e LLM-assisted customer service, data analysis, skill learning). Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent Chinese writing assistant powered by our Chinese Spelling Check model '**Zous-1B**'.
+During my postgraduate studies, 
+I interned at Microsoft Research Asia (MSRA), collaborating with <a href="https://chang-xu.github.io/">Chang Xu</a>, where I worked on time series reasoning, and at Apple Inc., where I led pilot projects on LLM applications for the sales sector. Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent writing platform powered by our Chinese Spelling Check model '**Zous-1B**'.
 
 <br />
 
