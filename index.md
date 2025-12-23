@@ -17,7 +17,7 @@ I interned at Microsoft Research Asia (MSRA), collaborating with <a href="https:
 
 <br />
 
-My primary research interest lies in (Multimodal) Large Language Models for **human-centered** scenarios. Specifically:
+My primary research interest lies in (Multimodal) Large Language Models for **scientific** and **creative** applications. Specifically:
 
 <!-- - <img src="imgs/icon1.jpeg" alt="icon" width="5" height="5"> -->
 
