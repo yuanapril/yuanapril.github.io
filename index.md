@@ -8,36 +8,38 @@ layout: default
 <!-- <span style="font-family:'KaiTi', 'STKaiti', 'Kaiti SC', serif;">袁 玫</span> -->
 <!-- Hi! I'm YUAN Mei (<font face="楷体">袁 玫</font>)!  -->
 Hi! I'm YUAN Mei (<span style="font-family:'KaiTi', 'STKaiti', 'Kaiti SC', serif;">袁 玫</span>)! 
-I am currently a visiting student at <a href="https://www.cmu.edu">Carnegie Mellon University</a> under <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. XU Min</a>'s guidance, working on agentic multimodal systems and embodied AI for automated science and biomedicine. 
+I am currently a visiting student at <a href="https://www.cmu.edu">Carnegie Mellon University</a>, working with <a href="https://xulabs.github.io/min-xu/">Prof. XU Min</a> on agentic multimodal systems and embodied AI for automated science and biomedicine. 
 
-I received my Master's degree in Computational Linguistic Engineering from <a href="https://english.pku.edu.cn">Peking University</a>, where I was fortunately supervised by Prof. LI Boting and worked closely with <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. SU Qi</a>. Before that, I received my Bachelor's degree in Information System.
+I received my Master's degree in Computational Linguistic Engineering from <a href="https://english.pku.edu.cn">Peking University</a>, where I was fortunately supervised by Prof. LI Boting and <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. SU Qi</a>. Before that, I obtained my Bachelor's degree in Information System.
 
-During my postgraduate studies, 
-I interned at Microsoft Research Asia (MSRA), collaborating with <a href="https://chang-xu.github.io/">XU Chang</a>, where I worked on time series foundation models, and at Apple Inc., where I led pilot projects on LLM applications for the sales sector. Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent writing platform powered by our Chinese Spelling Check model '**Zous-1B**'.
+
+I have interned at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia (MSRA)</a>, collaborating with <a href="https://chang-xu.github.io/">Dr. XU Chang</a>, where I worked on time series foundation models, and at Apple Inc., where I led pilot LLM application projects for the sales sector. Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent writing platform featuring our Chinese Spelling Check model '**Zous-1B**'.
 
 <br />
 
-My primary research interest lies in (Multimodal) Large Language Models and their **scientific** and **creative** applications. Specifically:
+My research interest focuses on **(Multimodal) Large Language Models** and their **scientific** and **creative** applications. Specifically:
 
 <!-- - <img src="imgs/icon1.jpeg" alt="icon" width="5" height="5"> -->
 
-- <img src="imgs/icon3.png" alt="icon" style="width:35px;height:35px;vertical-align:middle;"> **Scientific discovery automation**.
+- <img src="imgs/icon3.png" alt="icon" style="width:35px;height:35px;vertical-align:middle;"> **Automated scientific discovery**.
 
-  Build agentic multimodal systems that monitor industrial and laboratory processes from biochemical synthesis to manufacturing quality control. The intelligent systems are able to perceive multisensory data, analyze complex temporal dynamics, forecast future states, and make autonomous decisions with minimal human intervention. 
+  Building human-like agentic systems that autonomously monitor industrial and laboratory processes-from biochemical synthesis to manufacturing quality control. These systems perceive multisensory data, analyze temporal dynamics, forecast future states, detect anomalies, and make autonomous decisions with minimal human intervention. 
 
 - <img src="imgs/icon2.jpeg" alt="icon" style="width:35px;height:35px;vertical-align:middle;"> **Digital learning and humanities**.
 
-  Design adaptive tutoring systems with specialized support for human-in-the-loop interactive paradigms to assist education and human learning. 
-  Likewise, create unified frameworks for free-form generation that enable coherent, controllable storytelling and creative content with global context understanding.
+  Designing adaptive tutoring systems with specialized support for human-in-the-loop interactive paradigms to assist personalized education and human learning. 
+  Likewise, creating unified frameworks for free-form coherent, controllable storytelling that enable creative expression with global context understanding.
 
 <!-- - <img src="imgs/icon2.jpeg" alt="icon" style="width:30px;height:30px;vertical-align:middle;"> **Creative and controllable storytelling**.
    
   Generate visual-linguistic intertwined and controllable narratives and illustrations in a unified manner, allowing for interaction with users on a self-built dynamic storyboard. -->
 
-- <img src="imgs/multisense.png" alt="icon" style="width:35px;height:35px;vertical-align:middle;"> **Unified MLLMs for 3/4D Comprehension and Creation**.
+<!-- Unified MLLMs for 3/4D Comprehension and Creation -->
+- <img src="imgs/icon4.png" alt="icon" style="width:35px;height:35px;vertical-align:middle;"> **Unified 3D/4D world models**.
   
-  Learn both language and vision posteriors simultaneously and generate free-form interleaved content from continual sensory experience. 
-  Build unified, generalist MLLMs to handle perception, reasoning about, and generation of 3/4D worlds across all modalities and dimensions.
+  <!-- Learn both language and vision posteriors simultaneously and generate free-form interleaved content from continual sensory experience. 
+  Build unified, generalist MLLMs to handle perception, reasoning about, and generation of 3/4D worlds across all modalities and dimensions. -->
+  Developing unified, generalist MLLMs that synchonize perception, reasoning, and generation across spatial and temporal dimensions—learning from continual sensory experience to understand and create 3D/4D worlds.
 
 <br />
 
