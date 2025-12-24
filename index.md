@@ -27,7 +27,8 @@ My primary research interest lies in (Multimodal) Large Language Models and thei
 
 - <img src="imgs/icon2.jpeg" alt="icon" style="width:30px;height:30px;vertical-align:middle;"> **Digital learning and humanities**.
 
-  Design adaptive tutoring systems with specialized support for human-in-the-loop interactive paradigms to assist education and human learning. Likewise, create unified frameworks for free-form generation that enable coherent, controllable storytelling and creative content with global context understanding.
+  Design adaptive tutoring systems with specialized support for human-in-the-loop interactive paradigms to assist education and human learning. 
+  Likewise, create unified frameworks for free-form generation that enable coherent, controllable storytelling and creative content with global context understanding.
 
 <!-- - <img src="imgs/icon2.jpeg" alt="icon" style="width:30px;height:30px;vertical-align:middle;"> **Creative and controllable storytelling**.
    
@@ -35,7 +36,8 @@ My primary research interest lies in (Multimodal) Large Language Models and thei
 
 - <img src="imgs/multisense.png" alt="icon" style="width:30px;height:30px;vertical-align:middle;"> **Unified MLLMs for 3/4D Comprehension and Creation**.
   
-  Learn both language and vision posteriors simultaneously and generate free-form interleaved content.
+  Learn both language and vision posteriors simultaneously and generate free-form interleaved content from continual sensory experience. 
+  Unified MLLMs are designed to handle perception, reasoning about, and generation of 3/4D worlds across all modalities and dimensions.
 
 <br />
 
