@@ -39,7 +39,7 @@ My research interest focuses on **(Multimodal) Large Language Models** and their
   
   <!-- Learn both language and vision posteriors simultaneously and generate free-form interleaved content from continual sensory experience. 
   Build unified, generalist MLLMs to handle perception, reasoning about, and generation of 3/4D worlds across all modalities and dimensions. -->
-  Developing unified, generalist MLLMs that synchonize perception, reasoning, and generation across spatial and temporal dimensions—learning from continual sensory experience to understand and create 3D/4D worlds.
+  Developing unified, generalist MLLMs that synchonize perception, reasoning, and generation across omini-modalities and spatio-temporal dimensions—learning from continual sensory experience to understand and create 3D/4D worlds.
 
 <br />
 
