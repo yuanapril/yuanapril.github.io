@@ -21,11 +21,11 @@ My primary research interest lies in (Multimodal) Large Language Models and thei
 
 <!-- - <img src="imgs/icon1.jpeg" alt="icon" width="5" height="5"> -->
 
-- <img src="imgs/icon3.png" alt="icon" style="width:30px;height:30px;vertical-align:middle;"> **Scientific discovery automation**.
+- <img src="imgs/icon3.png" alt="icon" style="width:35px;height:35px;vertical-align:middle;"> **Scientific discovery automation**.
 
   Build agentic multimodal systems that monitor industrial and laboratory processes from biochemical synthesis to manufacturing quality control. The intelligent systems are able to perceive multisensory data, analyze complex temporal dynamics, forecast future states, and make autonomous decisions with minimal human intervention. 
 
-- <img src="imgs/icon2.jpeg" alt="icon" style="width:30px;height:30px;vertical-align:middle;"> **Digital learning and humanities**.
+- <img src="imgs/icon2.jpeg" alt="icon" style="width:35px;height:35px;vertical-align:middle;"> **Digital learning and humanities**.
 
   Design adaptive tutoring systems with specialized support for human-in-the-loop interactive paradigms to assist education and human learning. 
   Likewise, create unified frameworks for free-form generation that enable coherent, controllable storytelling and creative content with global context understanding.
@@ -34,10 +34,10 @@ My primary research interest lies in (Multimodal) Large Language Models and thei
    
   Generate visual-linguistic intertwined and controllable narratives and illustrations in a unified manner, allowing for interaction with users on a self-built dynamic storyboard. -->
 
-- <img src="imgs/multisense.png" alt="icon" style="width:30px;height:30px;vertical-align:middle;"> **Unified MLLMs for 3/4D Comprehension and Creation**.
+- <img src="imgs/multisense.png" alt="icon" style="width:35px;height:35px;vertical-align:middle;"> **Unified MLLMs for 3/4D Comprehension and Creation**.
   
   Learn both language and vision posteriors simultaneously and generate free-form interleaved content from continual sensory experience. 
-  Unified MLLMs are designed to handle perception, reasoning about, and generation of 3/4D worlds across all modalities and dimensions.
+  Build unified, generalist MLLMs to handle perception, reasoning about, and generation of 3/4D worlds across all modalities and dimensions.
 
 <br />
 
