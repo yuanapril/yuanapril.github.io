@@ -4,13 +4,13 @@
 
 <div class="publication-item">
   <div class="pub-image">
-    <img src="imgs/st-vad.png" alt="ST-VAD Teaser">
+    <img src="imgs/ipad.gif" alt="ST-VAD">
     <div class="pub-tag">ICML 2026</div>
   </div>
   <div class="pub-content">
     <h3>ST-VAD: Spatial-Temporal Mental Modeling for Industrial Video Anomaly Detection via Object-Centric Reasoning</h3>
     <p class="pub-authors"><strong>Mei Yuan</strong>, Yang Liu, Min Xu</p>
-    <p class="pub-venue">Submitted to IJCAI 2026</p>
+    <p class="pub-venue">Submitted to ICML 2026</p>
     <div class="pub-links">
       <a href="#" class="pub-link">📄 Paper</a>
       <a href="#" class="pub-link">📊 Project</a>
@@ -29,7 +29,7 @@
 
 <div class="publication-item">
   <div class="pub-image">
-    <img src="imgs/time-star.png" alt="Time-STaR Framework">
+    <img src="imgs/tstar.png" alt="Time-STaR Framework">
     <div class="pub-tag">ACL 2026</div>
   </div>
   <div class="pub-content">
@@ -54,7 +54,7 @@
 
 <div class="publication-item">
   <div class="pub-image">
-    <img src="imgs/pronunciation.png" alt="Pronunciation Coaching System">
+    <img src="imgs/speakout.png" alt="Pronunciation Coaching System">
     <div class="pub-tag">CHI 2026</div>
   </div>
   <div class="pub-content">
@@ -104,7 +104,7 @@
 
 <div class="publication-item">
   <div class="pub-image">
-    <img src="imgs/diffuvst.png" alt="DiffuVST Visual Storytelling">
+    <img src="imgs/vst.png" alt="DiffuVST Visual Storytelling">
     <div class="pub-tag">EMNLP 2023</div>
   </div>
   <div class="pub-content">
@@ -129,7 +129,7 @@
 
 <div class="publication-item">
   <div class="pub-image">
-    <img src="imgs/person-reid.png" alt="Person Re-identification">
+    <img src="imgs/reid.png" alt="Person Re-identification">
     <div class="pub-tag">ACM MM 2022</div>
   </div>
   <div class="pub-content">
