@@ -8,12 +8,15 @@ layout: default
 <!-- <span style="font-family:'KaiTi', 'STKaiti', 'Kaiti SC', serif;">袁 玫</span> -->
 <!-- Hi! I'm YUAN Mei (<font face="楷体">袁 玫</font>)!  -->
 Hi! I'm YUAN Mei (<span style="font-family:'KaiTi', 'STKaiti', 'Kaiti SC', serif;">袁 玫</span>)! 
-I am currently a visiting student at <a href="https://www.cmu.edu">Carnegie Mellon University</a>, working with <a href="https://xulabs.github.io/min-xu/">Prof. XU Min</a> on agentic multimodal systems and embodied AI for automated science and biomedicine. 
+<!-- I am currently a visiting student at <a href="https://www.cmu.edu">Carnegie Mellon University</a>, working with <a href="https://xulabs.github.io/min-xu/">Prof. XU Min</a> on agentic multimodal systems and embodied AI for automated science and biomedicine.  -->
+I am currently a visiting student at <a href="https://www.cmu.edu">Carnegie Mellon University</a>, working on agentic multimodal systems and embodied AI for automated science and biomedicine. 
 
 I received my Master's degree in Computational Linguistic Engineering from <a href="https://english.pku.edu.cn">Peking University</a>, where I was fortunately supervised by Prof. LI Boting and <a href="https://scholar.google.com.hk/citations?user=9f4JUrUAAAAJ&hl=en">Prof. SU Qi</a>. Before that, I obtained my Bachelor's degree in Information System.
 
 
-I have interned at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia (MSRA)</a>, collaborating with <a href="https://chang-xu.github.io/">Dr. XU Chang</a>, where I worked on time series foundation models, and at Apple Inc., where I led pilot LLM application projects for the sales sector. Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent writing platform featuring our Chinese Spelling Check model '**Zous-1B**'.
+<!-- I have interned at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia (MSRA)</a>, collaborating with <a href="https://chang-xu.github.io/">Dr. XU Chang</a>, where I worked on time series foundation models, and at Apple Inc., where I led pilot LLM application projects for the sales sector. Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent writing platform featuring our Chinese Spelling Check model '**Zous-1B**'. -->
+
+I have interned at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia (MSRA)</a>, with a focus on time series foundation models, and at Apple Inc., where I led pilot LLM application projects for the sales sector. Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent writing platform featuring our Chinese Spelling Check model '**Zous-1B**'.
 
 <br />
 
@@ -43,7 +46,7 @@ My research interest focuses on **(Multimodal) Large Language Models** and their
 
 <br />
 
-My email is yuanapr97 [at] gmail [dot] com.  
+My email is meiyuan  [at] andrew [dot] cmu [dot] edu or yuanapr97 [at] gmail [dot] com.  
 
 
 <br />

@@ -1,0 +1,240 @@
+/* Research Publications with Images Styling */
+
+/* Publication Item Container */
+.publication-item {
+    display: flex;
+    gap: 2rem;
+    margin: 3rem 0;
+    padding: 0;
+    align-items: flex-start;
+}
+
+/* Publication Image Section */
+.pub-image {
+    position: relative;
+    flex-shrink: 0;
+    width: 280px;
+    height: 280px;
+}
+
+.pub-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.pub-image img:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Conference/Venue Tag on Image */
+.pub-tag {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: rgba(123, 183, 140, 0.95);
+    color: white;
+    padding: 0.4em 0.8em;
+    border-radius: 6px;
+    font-size: 0.85em;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Publication Content Section */
+.pub-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.pub-content h3 {
+    margin-top: 0;
+    margin-bottom: 0.8rem;
+    font-size: 1.35em;
+    font-weight: 600;
+    color: #2c3e50;
+    line-height: 1.4;
+}
+
+/* Authors */
+.pub-authors {
+    margin: 0.5rem 0;
+    color: #555;
+    font-size: 1em;
+}
+
+.pub-authors strong {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+/* Venue */
+.pub-venue {
+    margin: 0.3rem 0 1rem 0;
+    color: #7f8c8d;
+    font-style: italic;
+    font-size: 0.95em;
+}
+
+/* Publication Links */
+.pub-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin: 1rem 0;
+}
+
+.pub-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5em 1em;
+    background: #f8f9fa;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    color: #555 !important;
+    font-size: 0.9em;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+}
+
+.pub-link:hover {
+    background: #7bb78c;
+    color: white !important;
+    border-color: #7bb78c;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(123, 183, 140, 0.2);
+}
+
+/* TL;DR Section */
+.pub-tldr {
+    background: linear-gradient(135deg, #f8fef9 0%, #f0faf3 100%);
+    border-left: 4px solid #7bb78c;
+    padding: 1.2em;
+    margin: 1.2rem 0;
+    border-radius: 6px;
+    line-height: 1.7;
+    color: #444;
+}
+
+.pub-tldr strong {
+    color: #7bb78c;
+    font-weight: 700;
+    font-size: 1.05em;
+}
+
+/* Details/Summary (Expandable Sections) */
+.pub-details {
+    margin: 1.5rem 0 0 0;
+    background: #fafafa;
+    border-radius: 8px;
+    border: 1px solid #e8e8e8;
+    overflow: hidden;
+}
+
+.pub-details summary {
+    cursor: pointer;
+    padding: 1em 1.2em;
+    font-weight: 600;
+    color: #555;
+    background: #f5f5f5;
+    transition: background-color 0.2s ease;
+    user-select: none;
+}
+
+.pub-details summary:hover {
+    background: #ececec;
+}
+
+.pub-details[open] summary {
+    background: #e8e8e8;
+    border-bottom: 1px solid #ddd;
+}
+
+.pub-details p {
+    padding: 1.2em;
+    margin: 0;
+    line-height: 1.8;
+    color: #555;
+}
+
+/* Section Dividers */
+.content > hr {
+    margin: 4rem 0;
+    border: 0;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #ddd, transparent);
+}
+
+/* Responsive Design */
+@media (max-width: 900px) {
+    .pub-image {
+        width: 240px;
+        height: 240px;
+    }
+}
+
+@media (max-width: 768px) {
+    .publication-item {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+    
+    .pub-image {
+        width: 100%;
+        height: auto;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    
+    .pub-image img {
+        aspect-ratio: 16 / 9;
+    }
+    
+    .pub-content h3 {
+        font-size: 1.25em;
+    }
+}
+
+@media (max-width: 500px) {
+    .pub-links {
+        flex-direction: column;
+    }
+    
+    .pub-link {
+        justify-content: center;
+    }
+    
+    .pub-tldr {
+        padding: 1em;
+        font-size: 0.95em;
+    }
+    
+    .pub-details summary {
+        padding: 0.8em 1em;
+    }
+    
+    .pub-details p {
+        padding: 1em;
+        font-size: 0.95em;
+    }
+}
+
+/* Print Styles */
+@media print {
+    .pub-details {
+        border: 1px solid #ccc;
+    }
+    
+    .pub-details summary {
+        display: none;
+    }
+    
+    .pub-details p {
+        display: block !important;
+    }
+}
