@@ -34,7 +34,7 @@
   </div>
   <div class="pub-content">
     <h3>Time-STaR: Self-Taught Reasoners Augmented with Tools for Reliable Time Series Analysis</h3>
-    <p class="pub-authors"><strong>Mei Yuan</strong>, Chang Xu, Jiang Bian</p>
+    <!-- <p class="pub-authors"><strong>Mei Yuan</strong>, Chang Xu, Jiang Bian</p> -->
     <p class="pub-venue">Submitted to ACL 2026</p>
     <div class="pub-links">
       <a href="#" class="pub-link">📄 Paper</a>
