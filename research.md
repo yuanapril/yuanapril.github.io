@@ -163,4 +163,4 @@
 
 ---
 
-### Also see [Google Scholar](https://scholar.google.com/citations?user=q4kZ8WMAAAAJ&hl=en) for the complete list.
+### Also see [Google Scholar](https://scholar.google.com/citations?user=q4kZ8WMAAAAJ&hl=en) for the complete list
