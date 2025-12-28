@@ -10,7 +10,7 @@
   <div class="pub-content">
     <h3>ST-VAD: Spatial-Temporal Mental Modeling for Industrial Video Anomaly Detection via Object-Centric Reasoning</h3>
     <p class="pub-authors"><strong>Mei Yuan</strong>, Yang Liu, Min Xu</p>
-    <p class="pub-venue">Submitted to IJCAI 2026</p>
+    <p class="pub-venue">Submitted to ICML 2026</p>
     <div class="pub-links">
       <a href="#" class="pub-link">📄 Paper</a>
       <a href="#" class="pub-link">📊 Project</a>
@@ -36,7 +36,7 @@
   <div class="pub-content">
     <h3>Time-STaR: Self-Taught Reasoners Augmented with Tools for Reliable Time Series Analysis</h3>
     <p class="pub-authors"><strong>Mei Yuan</strong>, Chang Xu, Jiang Bian</p>
-    <p class="pub-venue">Submitted to ACL 2026</p>
+    <p class="pub-venue">Submitted to ICML 2026</p>
     <div class="pub-links">
       <a href="#" class="pub-link">📄 Paper</a>
       <a href="#" class="pub-link">💻 Code</a>
