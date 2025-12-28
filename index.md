@@ -42,7 +42,7 @@ My research interest focuses on **(Multimodal) Large Language Models** and their
   
   <!-- Learn both language and vision posteriors simultaneously and generate free-form interleaved content from continual sensory experience. 
   Build unified, generalist MLLMs to handle perception, reasoning about, and generation of 3/4D worlds across all modalities and dimensions. -->
-  Developing unified, generalist MLLMs that synchonize perception, reasoning, and generation across omini-modalities and spatio-temporal dimensions—learning from continual sensory experience to understand and create 3D/4D worlds.
+  Developing unified, generalist MLLMs that synchonize perception, reasoning, and generation across omni-modalities and dimensions with spatio-temporal awareness—learning from continual sensory experience to understand and create 3D/4D worlds.
 
 <br />
 
@@ -53,7 +53,7 @@ My email is meiyuan  [at] andrew [dot] cmu [dot] edu or yuanapr97 [at] gmail [do
 
 ****
 
-## Publications
+<!-- ## Publications
 
 1. Mei Yuan, Boting Li. [Guiding Grasp and Growth: Multi-Modal Detection and Feedback on Accented Mispronunciation](https://drive.google.com/file/d/1Cld1n7yeURCJH_tsa8Z_pG_sF3j9kN73/view?usp=drive_link). Submitted to ACL 2025.
 
@@ -65,9 +65,9 @@ My email is meiyuan  [at] andrew [dot] cmu [dot] edu or yuanapr97 [at] gmail [do
 ### Also see [Google Scholar](https://scholar.google.com/citations?user=q4kZ8WMAAAAJ&hl=en) :)  
 
 
-&nbsp;
+&nbsp; -->
 
-****
+<!-- ****
 
 ## Teaching
 At PKU:
@@ -75,7 +75,7 @@ At PKU:
 2. TA for *Advanced English for Graduate Students of Information Technology'2024* taught by Prof. LI Boting.
 
 
-<br />
+<br /> -->
 
 
 
