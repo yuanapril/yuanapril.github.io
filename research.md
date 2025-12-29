@@ -17,7 +17,8 @@
     </div>
     <details class="pub-tldr-collapsible">
       <summary>
-        <span class="tldr-label">TL;DR:</span> A VLM-based reasoning framework that elevates video anomaly detection from pattern matching to cognitive-level understanding. By simulating human spatial perception and representing scene dynamics via object-centric state graphs, our approach achieves state-of-the-art performance on industrial benchmarks, pioneering explainable anomaly detection for robotic laboratories.
+        <span class="tldr-label">TL;DR:</span>
+        <span class="tldr-text">A VLM-based reasoning framework that elevates video anomaly detection from pattern matching to cognitive-level understanding. By simulating human spatial perception and representing scene dynamics via object-centric state graphs, our approach achieves state-of-the-art performance on industrial benchmarks, pioneering explainable anomaly detection for robotic laboratories.</span>
       </summary>
     </details>
   </div>
@@ -39,7 +40,8 @@
     </div>
     <details class="pub-tldr-collapsible">
       <summary>
-        <span class="tldr-label">TL;DR:</span> A reasoning-centric framework that repurposes LLMs for time series forecasting. By curating the Time-STaR-CoTT dataset and implementing GRPO-style reinforcement learning, we enable models to identify causal relationships, detect regime changes, and generate interpretable forecasts—achieving state-of-the-art results across weather, traffic, and finance domains.
+        <span class="tldr-label">TL;DR:</span>
+        <span class="tldr-text">A reasoning-centric framework that repurposes LLMs for time series forecasting. By curating the Time-STaR-CoTT dataset and implementing GRPO-style reinforcement learning, we enable models to identify causal relationships, detect regime changes, and generate interpretable forecasts—achieving state-of-the-art results across weather, traffic, and finance domains.</span>
       </summary>
     </details>
   </div>
@@ -62,7 +64,8 @@
     </div>
     <details class="pub-tldr-collapsible">
       <summary>
-        <span class="tldr-label">TL;DR:</span> An interactive text-vision-audio pronunciation coaching system combining LLM-powered assessment, Neural TTS exemplars, and viseme animations. Validated with 82 students showing 90%+ satisfaction, the system was adopted as an intelligent teaching assistant in a graduate-level English course at Peking University.
+        <span class="tldr-label">TL;DR:</span>
+        <span class="tldr-text">An interactive text-vision-audio pronunciation coaching system combining LLM-powered assessment, Neural TTS exemplars, and viseme animations. Validated with 82 students showing 90%+ satisfaction, the system was adopted as an intelligent teaching assistant in a graduate-level English course at Peking University.</span>
       </summary>
     </details>
   </div>
@@ -85,7 +88,8 @@
     </div>
     <details class="pub-tldr-collapsible">
       <summary>
-        <span class="tldr-label">TL;DR:</span> A novel approach for long-term time-series forecasting through Prefix Reprogramming with noise-based prefixes, FFT-Attention for periodic patterns, and Average Decomposition for seasonal-trend separation—avoiding information bottlenecks common in traditional Transformer architectures.
+        <span class="tldr-label">TL;DR:</span>
+        <span class="tldr-text">A novel approach for long-term time-series forecasting through Prefix Reprogramming with noise-based prefixes, FFT-Attention for periodic patterns, and Average Decomposition for seasonal-trend separation—avoiding information bottlenecks common in traditional Transformer architectures.</span>
       </summary>
     </details>
   </div>
@@ -108,7 +112,8 @@
     </div>
     <details class="pub-tldr-collapsible">
       <summary>
-        <span class="tldr-label">TL;DR:</span> A non-autoregressive DiffusionLM-based storytelling model that generates coherent narratives around visual sequences. Trained with weighted conditions on global vision-language history, DiffuVST achieves superior performance with 10× faster inference than autoregressive models.
+        <span class="tldr-label">TL;DR:</span>
+        <span class="tldr-text">A non-autoregressive DiffusionLM-based storytelling model that generates coherent narratives around visual sequences. Trained with weighted conditions on global vision-language history, DiffuVST achieves superior performance with 10× faster inference than autoregressive models.</span>
       </summary>
     </details>
   </div>
@@ -131,7 +136,8 @@
     </div>
     <details class="pub-tldr-collapsible">
       <summary>
-        <span class="tldr-label">TL;DR:</span> A robust person re-identification method addressing occlusion challenges through dual-branch Vision Transformer with jigsaw patch modules and innovative ranking optimization. Achieved 98.38% mAP and 99.57% rank-1 accuracy, winning second place in the DeepSportRadar Player REID Challenge.
+        <span class="tldr-label">TL;DR:</span>
+        <span class="tldr-text">A robust person re-identification method addressing occlusion challenges through dual-branch Vision Transformer with jigsaw patch modules and innovative ranking optimization. Achieved 98.38% mAP and 99.57% rank-1 accuracy, winning second place in the DeepSportRadar Player REID Challenge.</span>
       </summary>
     </details>
   </div>
