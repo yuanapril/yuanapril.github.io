@@ -1,3 +1,273 @@
+// // /* Research Publications with Images Styling - Compact Version */
+
+// // .publication-item {
+// //     display: flex;
+// //     gap: 1.5rem;
+// //     margin: 2.5rem 0;
+// //     padding: 0;
+// //     align-items: flex-start;
+// // }
+
+// // .pub-image {
+// //     position: relative;
+// //     flex-shrink: 0;
+// //     width: 220px;
+// // }
+
+// // .pub-image img {
+// //     width: 100%;
+// //     height: auto;
+// //     object-fit: contain;
+// //     border-radius: 10px;
+// //     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+// //     transition: transform 0.3s ease, box-shadow 0.3s ease;
+// // }
+
+// // .pub-image img:hover {
+// //     transform: translateY(-3px);
+// //     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+// // }
+
+// // .pub-tag {
+// //     position: absolute;
+// //     top: 8px;
+// //     left: 8px;
+// //     background: rgba(123, 183, 140, 0.95);
+// //     color: white;
+// //     padding: 0.3em 0.7em;
+// //     border-radius: 5px;
+// //     font-size: 0.75em;
+// //     font-weight: 600;
+// //     letter-spacing: 0.3px;
+// //     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+// // }
+
+// // .pub-content {
+// //     flex: 1;
+// //     min-width: 0;
+// // }
+
+// // .pub-content h3 {
+// //     margin-top: 0;
+// //     margin-bottom: 0.5rem;
+// //     font-size: 1.05em;
+// //     font-weight: 600;
+// //     color: #2c3e50;
+// //     line-height: 1.35;
+// // }
+
+// // .pub-authors {
+// //     margin: 0.4rem 0;
+// //     color: #555;
+// //     font-size: 0.9em;
+// // }
+
+// // .pub-authors strong {
+// //     color: #2c3e50;
+// //     font-weight: 600;
+// // }
+
+// // .pub-venue {
+// //     margin: 0.2rem 0 0.8rem 0;
+// //     color: #7f8c8d;
+// //     font-style: italic;
+// //     font-size: 0.85em;
+// // }
+
+// // .pub-links {
+// //     display: flex;
+// //     flex-wrap: wrap;
+// //     gap: 0.5rem;
+// //     margin: 0.8rem 0;
+// // }
+
+// // .pub-link {
+// //     display: inline-flex;
+// //     align-items: center;
+// //     padding: 0.4em 0.8em;
+// //     background: #f8f9fa;
+// //     border: 1px solid #e0e0e0;
+// //     border-radius: 5px;
+// //     color: #555 !important;
+// //     font-size: 0.8em;
+// //     text-decoration: none !important;
+// //     transition: all 0.2s ease;
+// // }
+
+// // .pub-link:hover {
+// //     background: #7bb78c;
+// //     color: white !important;
+// //     border-color: #7bb78c;
+// //     transform: translateY(-2px);
+// //     box-shadow: 0 3px 6px rgba(123, 183, 140, 0.2);
+// // }
+
+// // /* TL;DR Section with more/less buttons */
+// // .pub-tldr-collapsible {
+// //     margin: 0.9rem 0;
+// //     background: linear-gradient(135deg, #f8fef9 0%, #f0faf3 100%);
+// //     border-radius: 6px;
+// //     border: 1px solid #d0e8d5;
+// //     border-left: 4px solid #7bb78c;
+// //     overflow: hidden;
+// // }
+
+// // .pub-tldr-collapsible summary {
+// //     list-style: none;
+// //     cursor: pointer;
+// //     padding: 1em;
+// //     position: relative;
+// //     line-height: 1.6;
+// //     color: #333;
+// //     font-size: 0.9em;
+// // }
+
+// // .pub-tldr-collapsible summary::-webkit-details-marker {
+// //     display: none;
+// // }
+
+// // .pub-tldr-collapsible summary .tldr-label {
+// //     font-weight: 700;
+// //     color: #7bb78c;
+// // }
+
+// // .pub-tldr-collapsible summary .tldr-preview {
+// //     display: inline;
+// // }
+
+// // .pub-tldr-collapsible[open] summary .tldr-preview {
+// //     display: none;
+// // }
+
+// // .pub-tldr-collapsible summary::after {
+// //     content: "more ▼";
+// //     position: absolute;
+// //     right: 1em;
+// //     top: 50%;
+// //     transform: translateY(-50%);
+// //     color: #4a90e2;
+// //     font-weight: 600;
+// //     font-size: 0.9em;
+// //     border: 2px solid #4a90e2;
+// //     padding: 0.3em 0.8em;
+// //     border-radius: 4px;
+// //     background: white;
+// //     transition: all 0.2s ease;
+// // }
+
+// // .pub-tldr-collapsible summary:hover::after {
+// //     background: #f0f7ff;
+// // }
+
+// // .pub-tldr-collapsible[open] summary::after {
+// //     display: none;
+// // }
+
+// // .pub-tldr-collapsible .tldr-full {
+// //     display: none;
+// //     padding: 0 1em 1em 1em;
+// //     margin: 0;
+// //     line-height: 1.6;
+// //     color: #333;
+// //     font-size: 0.9em;
+// //     position: relative;
+// //     cursor: pointer;
+// // }
+
+// // .pub-tldr-collapsible[open] .tldr-full {
+// //     display: block;
+// // }
+
+// // .pub-tldr-collapsible .tldr-full::after {
+// //     content: "less ▲";
+// //     display: block;
+// //     text-align: right;
+// //     color: #4a90e2;
+// //     font-weight: 600;
+// //     font-size: 1em;
+// //     border: 2px solid #4a90e2;
+// //     padding: 0.3em 0.8em;
+// //     border-radius: 4px;
+// //     background: white;
+// //     margin-top: 0.8em;
+// //     width: fit-content;
+// //     margin-left: auto;
+// //     transition: all 0.2s ease;
+// // }
+
+// // .pub-tldr-collapsible[open] .tldr-full:hover::after {
+// //     background: #f0f7ff;
+// // }
+
+// // .content > hr {
+// //     margin: 3rem 0;
+// //     border: 0;
+// //     height: 1px;
+// //     background: linear-gradient(to right, transparent, #ddd, transparent);
+// // }
+
+// // /* Responsive Design */
+// // @media (max-width: 900px) {
+// //     .pub-image {
+// //         width: 200px;
+// //     }
+    
+// //     .pub-content h3 {
+// //         font-size: 1em;
+// //     }
+    
+// //     .pub-tldr-collapsible summary {
+// //         padding-right: 5em;
+// //     }
+// // }
+
+// // @media (max-width: 768px) {
+// //     .publication-item {
+// //         flex-direction: column;
+// //         gap: 1.2rem;
+// //     }
+    
+// //     .pub-image {
+// //         width: 100%;
+// //         max-width: 400px;
+// //         margin: 0 auto;
+// //     }
+    
+// //     .pub-image img {
+// //         width: 100%;
+// //         height: auto;
+// //     }
+    
+// //     .pub-content h3 {
+// //         font-size: 1em;
+// //     }
+// // }
+
+// // @media (max-width: 500px) {
+// //     .pub-links {
+// //         flex-direction: column;
+// //     }
+    
+// //     .pub-link {
+// //         justify-content: center;
+// //     }
+    
+// //     .pub-tldr-collapsible {
+// //         font-size: 0.85em;
+// //     }
+    
+// //     .pub-tldr-collapsible summary {
+// //         padding-right: 4.5em;
+// //     }
+    
+// //     .pub-tldr-collapsible summary::after {
+// //         font-size: 0.8em;
+// //         padding: 0.2em 0.6em;
+// //     }
+// // }
+
+
+
 // /* Research Publications with Images Styling - Compact Version */
 
 // .publication-item {
@@ -102,7 +372,7 @@
 //     box-shadow: 0 3px 6px rgba(123, 183, 140, 0.2);
 // }
 
-// /* TL;DR Section with more/less buttons */
+// /* TL;DR Section with more/less buttons - GREEN THEME */
 // .pub-tldr-collapsible {
 //     margin: 0.9rem 0;
 //     background: linear-gradient(135deg, #f8fef9 0%, #f0faf3 100%);
@@ -116,6 +386,7 @@
 //     list-style: none;
 //     cursor: pointer;
 //     padding: 1em;
+//     padding-right: 6em;
 //     position: relative;
 //     line-height: 1.6;
 //     color: #333;
@@ -139,16 +410,25 @@
 //     display: none;
 // }
 
+// .pub-tldr-collapsible summary .tldr-full-text {
+//     display: none;
+// }
+
+// .pub-tldr-collapsible[open] summary .tldr-full-text {
+//     display: inline;
+// }
+
+// /* More button - GREEN THEME */
 // .pub-tldr-collapsible summary::after {
 //     content: "more ▼";
 //     position: absolute;
 //     right: 1em;
 //     top: 50%;
 //     transform: translateY(-50%);
-//     color: #4a90e2;
+//     color: #5fa876;
 //     font-weight: 600;
 //     font-size: 0.9em;
-//     border: 2px solid #4a90e2;
+//     border: 2px solid #7bb78c;
 //     padding: 0.3em 0.8em;
 //     border-radius: 4px;
 //     background: white;
@@ -156,47 +436,11 @@
 // }
 
 // .pub-tldr-collapsible summary:hover::after {
-//     background: #f0f7ff;
+//     background: #f0faf3;
 // }
 
 // .pub-tldr-collapsible[open] summary::after {
-//     display: none;
-// }
-
-// .pub-tldr-collapsible .tldr-full {
-//     display: none;
-//     padding: 0 1em 1em 1em;
-//     margin: 0;
-//     line-height: 1.6;
-//     color: #333;
-//     font-size: 0.9em;
-//     position: relative;
-//     cursor: pointer;
-// }
-
-// .pub-tldr-collapsible[open] .tldr-full {
-//     display: block;
-// }
-
-// .pub-tldr-collapsible .tldr-full::after {
 //     content: "less ▲";
-//     display: block;
-//     text-align: right;
-//     color: #4a90e2;
-//     font-weight: 600;
-//     font-size: 1em;
-//     border: 2px solid #4a90e2;
-//     padding: 0.3em 0.8em;
-//     border-radius: 4px;
-//     background: white;
-//     margin-top: 0.8em;
-//     width: fit-content;
-//     margin-left: auto;
-//     transition: all 0.2s ease;
-// }
-
-// .pub-tldr-collapsible[open] .tldr-full:hover::after {
-//     background: #f0f7ff;
 // }
 
 // .content > hr {
@@ -217,7 +461,7 @@
 //     }
     
 //     .pub-tldr-collapsible summary {
-//         padding-right: 5em;
+//         padding-right: 5.5em;
 //     }
 // }
 
@@ -257,7 +501,7 @@
 //     }
     
 //     .pub-tldr-collapsible summary {
-//         padding-right: 4.5em;
+//         padding-right: 5em;
 //     }
     
 //     .pub-tldr-collapsible summary::after {
@@ -391,6 +635,16 @@
     line-height: 1.6;
     color: #333;
     font-size: 0.9em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.pub-tldr-collapsible[open] summary {
+    display: block;
+    -webkit-line-clamp: unset;
 }
 
 .pub-tldr-collapsible summary::-webkit-details-marker {
@@ -400,22 +654,6 @@
 .pub-tldr-collapsible summary .tldr-label {
     font-weight: 700;
     color: #7bb78c;
-}
-
-.pub-tldr-collapsible summary .tldr-preview {
-    display: inline;
-}
-
-.pub-tldr-collapsible[open] summary .tldr-preview {
-    display: none;
-}
-
-.pub-tldr-collapsible summary .tldr-full-text {
-    display: none;
-}
-
-.pub-tldr-collapsible[open] summary .tldr-full-text {
-    display: inline;
 }
 
 /* More button - GREEN THEME */
