@@ -5,7 +5,7 @@
 <div class="publication-item">
   <div class="pub-image">
     <img src="imgs/ipad.gif" alt="ST-VAD Teaser">
-    <div class="pub-tag">ICML 2026</div>
+    <div class="pub-tag">ongoing</div>
   </div>
   <div class="pub-content">
     <h3>ST-VAD: Spatial-Temporal Mental Modeling for Industrial Video Anomaly Detection via Object-Centric Reasoning</h3>
@@ -35,7 +35,8 @@
   </div>
   <div class="pub-content">
     <h3>Time-STaR: Self-Taught Reasoners Augmented with Tools for Reliable Time Series Analysis</h3>
-    <p class="pub-venue">Submitted to ICML 2026</p>
+    <!-- <p class="pub-venue">Submitted to ICML 2026</p> -->
+   <p class="pub-venue">ongoing</p>
     <div class="pub-links">
       <a href="#" class="pub-link">📄 Paper</a>
       <a href="#" class="pub-link">💻 Code</a>
