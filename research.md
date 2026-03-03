@@ -75,7 +75,7 @@
 </div>
 
 ---
-
+<!--
 <div class="publication-item">
   <div class="pub-image">
     <img src="imgs/prformer.jpg" alt="PRformer Architecture">
@@ -97,8 +97,9 @@
     </details>
   </div>
 </div>
-
+<>
 ---
+-->
 
 <div class="publication-item">
   <div class="pub-image">
