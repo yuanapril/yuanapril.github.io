@@ -5,7 +5,8 @@
 <div class="publication-item">
   <div class="pub-image">
     <img src="imgs/ipad.gif" alt="ST-VAD Teaser">
-    <div class="pub-tag">ongoing</div>
+    <!-- <div class="pub-tag">ongoing</div> -->
+    
   </div>
   <div class="pub-content">
     <h3>O-VAD: Industrial Video Anomaly Detection through Object-Centric State Tracking and Reasoning</h3>
