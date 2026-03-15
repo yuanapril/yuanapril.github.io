@@ -8,9 +8,9 @@
     <div class="pub-tag">ongoing</div>
   </div>
   <div class="pub-content">
-    <h3>ST-VAD: Spatial-Temporal Mental Modeling for Industrial Video Anomaly Detection via Object-Centric Reasoning</h3>
-    <!-- <p class="pub-authors"><strong>Mei Yuan</strong>, Yang Liu, Min Xu</p> -->
-    <!-- <p class="pub-venue">Submitted to ICML 2026</p> -->
+    <h3>O-VAD: Industrial Video Anomaly Detection through Object-Centric State Tracking and Reasoning</h3>
+    <p class="pub-authors"><strong>Mei Yuan</strong>, Qi Long, Qifeng Wu, Zhenyang Li, Yizhou Zhao, Lei Wang, Yang Liu, Min Xu</p>
+    <p class="pub-venue">Submitted to ECCV 2026</p>
     <p class="pub-venue">ongoing</p>
     <div class="pub-links">
       <a href="#" class="pub-link">📄 Paper</a>
@@ -19,7 +19,7 @@
     <details class="pub-tldr-collapsible">
       <summary>
         <span class="tldr-label">TL;DR:</span>
-        <span class="tldr-text">A VLM-based reasoning framework that elevates video anomaly detection from pattern matching to cognitive-level understanding. By simulating human spatial perception and representing scene dynamics via object-centric state graphs, our approach achieves state-of-the-art performance on industrial benchmarks, pioneering explainable anomaly detection for robotic laboratories.</span>
+        <span class="tldr-text">A VLM-based reasoning framework that elevates video anomaly detection from pattern matching to cognitive-level understanding. By simulating human spatial perception and representing scene dynamics via object-centric state tracking, our approach achieves state-of-the-art performance on industrial benchmarks, pioneering explainable anomaly detection for robotic laboratories.</span>
       </summary>
     </details>
   </div>
