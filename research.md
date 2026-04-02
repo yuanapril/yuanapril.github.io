@@ -14,7 +14,7 @@
     <p class="pub-venue">Submitted to ECCV 2026</p>
     <p class="pub-venue">ongoing</p>
     <div class="pub-links">
-      <a href="#" class="pub-link">📄 Paper</a>
+      <a href="https://drive.google.com/file/d/1kE6cSwALmTYqyC2leGMQvrLtCSFhlk8t/view?usp=drive_link" class="pub-link">📄 Paper</a></a>
       <a href="#" class="pub-link">📊 Project</a>
     </div>
     <details class="pub-tldr-collapsible">
