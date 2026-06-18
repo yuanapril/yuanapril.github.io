@@ -5,7 +5,7 @@
 <div class="publication-item">
   <div class="pub-image">
     <img src="imgs/ipad.gif" alt="ST-VAD Teaser">
-    <!-- <div class="pub-tag">ongoing</div> -->
+    <div class="pub-tag">ECCV 2026</div>
     
   </div>
   <div class="pub-content">
@@ -55,12 +55,12 @@
 <div class="publication-item">
   <div class="pub-image">
     <img src="imgs/speakout.png" alt="Pronunciation Coaching System">
-    <div class="pub-tag">CHI 2026</div>
+    <!-- <div class="pub-tag">CHI 2026</div> -->
   </div>
   <div class="pub-content">
     <h3>Guiding Grasp and Growth: Multi-Modal Detection and Feedback on Accented Mispronunciation</h3>
     <p class="pub-authors"><strong>Mei Yuan</strong>, Boting Li</p>
-    <p class="pub-venue">Submitted to CHI 2026</p>
+    <p class="pub-venue">Brief version of master's thesis</p>
     <div class="pub-links">
       <a href="https://drive.google.com/file/d/1Cld1n7yeURCJH_tsa8Z_pG_sF3j9kN73/view?usp=drive_link" class="pub-link">📄 Paper</a>
       <a href="#" class="pub-link">🎯 Demo</a>
