@@ -13,7 +13,7 @@
     <p class="pub-authors"><strong>Mei Yuan</strong>, Qi Long, Qifeng Wu, Zhenyang Li, Yizhou Zhao, Lei Wang, Yang Liu, Min Xu</p>
     <p class="pub-venue">Accepted by ECCV 2026</p>
     <div class="pub-links">
-      <a href="https://drive.google.com/file/d/1kE6cSwALmTYqyC2leGMQvrLtCSFhlk8t/view?usp=drive_link" class="pub-link">📄 Paper</a></a>
+      <a href="https://drive.google.com/file/d/1kE6cSwALmTYqyC2leGMQvrLtCSFhlk8t/view?usp=drive_link" class="pub-link">📄 Paper</a>
       <a href="#" class="pub-link">📊 Project</a>
     </div>
     <details class="pub-tldr-collapsible">
