@@ -16,7 +16,7 @@ I received my Master's degree in Computational Linguistic Engineering from <a hr
 
 <!-- I have interned at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia (MSRA)</a>, collaborating with <a href="https://chang-xu.github.io/">Dr. XU Chang</a>, where I worked on time series foundation models, and at Apple Inc., where I led pilot LLM application projects for the sales sector. Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent writing platform featuring our Chinese Spelling Check model '**Zous-1B**'. -->
 
-I have interned at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia (MSRA)</a>, with a focus on time series foundation models, and at Apple Inc., where I led pilot LLM application projects for the sales sector. Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent writing platform featuring our Chinese Spelling Check model '**Zous-1B**'.
+I have interned at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia (MSRA)</a>, with a focus on time series foundation models, and at <a href='https://machinelearning.apple.com/'>Apple AI/ML</a>, where I led pilot LLM application projects for the sales sector. Additionally, I co-founded <a href="http://textpanda.cn">TextPanda</a>, an intelligent writing platform featuring our Chinese Spelling Check model '**Zous-1B**'.
 
 <br />
 
